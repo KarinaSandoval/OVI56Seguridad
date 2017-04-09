@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ea">
+
+<head>
+	<meta charset="UTF-8"/>
+	<title>Seguridad Informática</title>
+	<link rel="stylesheet" type="text/css" href="css/normalize.css"/>
+	<link rel="stylesheet" type="text/css" href="css/seguridad.css">
+
+
+
+</head>
+<body>
+	<header>
+		<h1>SEGURIDAD INFORMATICA</h1>
+		&lt;HEADER&gt;
+	</header>
+
+	<SECTION id="menulateral">
+		<nav>
+			&lt;NAV&gt;
+		</nav>
+	
+	</SECTION>
+
+	<SECTION id="separacion"> 
+		<p>s</p>
+		</SECTION>
+
+	<SECTION id="contenido"> 
+		<SECTION id="texto"> &lt;TEXTO&gt; </SECTION>
+		<SECTION id="imagen">&lt;IMAGEN&gt;</SECTION>
+	</SECTION>
+
+	<FOOTER></FOOTER>
+</body>
+
+
+
+</html>
