@@ -31,8 +31,7 @@ nav{
 	width: 200px;
 	height: 1000px ;
 	float: left;
-	border: 20px, 
-	border color: solid #212121;
+	border-right: 10px solid #F2B80D;
 	}
 a
 {
@@ -46,7 +45,7 @@ div
 	padding: 10px;
 	margin: 10px;
 	font-family: "FRABK";
-	max-width: 600px;
+	max-width: 500px;
 	display: inline-block;
 	
 }
@@ -73,5 +72,5 @@ h3{
 figure{
 	padding: 10px;
 	margin: 10px;
-	display: inline-block;
+	float: right;
 }
