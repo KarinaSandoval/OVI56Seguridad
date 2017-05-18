@@ -1,0 +1,85 @@
+
+@font-face{
+	font-family: 'FRABK';
+	src: url("../font/FRABK.ttf") format ("ttf");
+	src: url("../font/FRABK.woff") format ("woff");}
+
+	@font-face{
+	font-family: 'FRABKIT';
+	src: url("../font/FRABKIT.ttf") format ("ttf");
+	src: url("../font/FRABKIT.woff") format ("woff");}
+
+header, footer
+{
+	max-width: 1000px;
+	text-align: center;
+}
+
+section#principal
+{
+	padding:0;
+	margin: 0.5em;
+	background: #FFFFFF;
+	font-family: "FRABK";
+	max-width: 1000px;
+	display: inline-block;
+}
+
+section#separacion
+{
+	padding:0;
+	margin:0;
+	background: #F2B80D;
+	float: left;
+	max-width: 10px;
+	
+}
+section#menulateral
+{
+	padding:0;
+	margin-left:0.5em;
+	margin-bottom: 0.5em;
+	background: #006680;
+	color: #FFFFFF;
+	font-family: "FRABK";
+	float: left;
+	max-width: 200px;
+
+}
+
+
+section#texto
+{
+	background: #FFFFFF;
+	float: left;
+	max-width: 400px;
+	margin:0.5em;}
+
+section#imagen
+{
+	background: #FFFFFF;
+	float: right;
+	max-width: 300px;
+	margin:0.5em;}
+
+h1{
+	font-family: "FRABK";
+	color: #212121;
+	margin: 0.25em auto;
+	text-align: center:;
+
+}
+h2{
+	font-family: "FRABK";
+	color: #212121;
+	margin: 0.25em auto;
+	text-align: center:;
+
+}
+h3{
+	font-family: "FRABKIT";
+	color: #212121;
+	margin: 0.25em auto;
+	text-align: left;:;
+
+}
